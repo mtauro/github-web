@@ -2,7 +2,7 @@ public class HelloJava {
 	
 	public static void main(String[] args) {
 
-		System.out.println("Hello Merce");
+		System.out.println("Hello Merce :)");
 		  
 		  
 	
